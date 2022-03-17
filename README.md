@@ -1,5 +1,5 @@
 ### Hi there 👋
-(![welcome](https://user-images.githubusercontent.com/76810003/158737968-8b877e7f-9892-4aaf-a710-67f13c18d9ba.gif)/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
+(![welcome](https://user-images.githubusercontent.com/76810003/158737968-8b877e7f-9892-4aaf-a710-67f13c18d9ba.gif))
 <!--
 **saifujasoor/saifujasoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
