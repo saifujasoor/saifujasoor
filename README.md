@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love Swimming and Gym.
 
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20views&color=0e75b6&style=flat" alt="noumannahmad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifujasoor&label=Profile%20views&color=0e75b6&style=flat" alt="saifujassoor" /> </p>
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin] [![Mail Badge](https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge)][instagram]
@@ -40,7 +40,14 @@ Here are some ideas to get you started:
 
 https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-94bc-198c78128453.mp4
 
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>My GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifujasoor&show_icons=true&locale=en&layout=compact" alt="saifujasoor" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifujasoor&show_icons=true&locale=en" alt="saifujasoor" width="610" /></p>
+
+<hr>
 
 
 <!--Links -->
