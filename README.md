@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>My GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifujasoor&show_icons=true&locale=en&layout=compact" alt="saifujasoor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifujasoor&show_icons=true&locale=en" alt="saifujasoor" width="510" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifujasoor&show_icons=true&locale=en" alt="saifujasoor" width="410" /></p>
 
 <hr>
 
