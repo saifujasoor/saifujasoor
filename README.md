@@ -14,6 +14,7 @@
 - ⚡ Fun fact: I love Swimming and Gym.
 
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noumannahmad&label=Profile%20views&color=0e75b6&style=flat" alt="noumannahmad" /> </p>
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin] [![Mail Badge](https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge)][instagram]
