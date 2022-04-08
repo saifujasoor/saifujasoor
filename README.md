@@ -14,7 +14,6 @@
 - ⚡ Fun fact: I love Swimming and Gym.
 
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifujasoor&label=Profile%20views&color=0e75b6&style=flat" alt="saifujassoor" /> </p>
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin] [![Mail Badge](https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge)][instagram]
@@ -54,6 +53,8 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 
 
 <hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifujasoor&label=Profile%20views&color=0e75b6&style=flat" alt="saifujassoor" /> </p>
 <p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=saifujasoor&column=3&theme=nord&margin-w=6&margin-h=5&no-frame=true" /> </p>
 
 <!-- <p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifujasoor&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p> -->
@@ -85,6 +86,7 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 <br>
 <hr>
 <h3 align="left">Connect with me:</h3>
+
 [![Replit](https://img.shields.io/badge/-Repl.it-212121?logo=replit&logoWidth=20&logoColor=f0f0f0&style=flat-square)](https://replit.com/@mr_saif)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoWidth=20&logoColor=white&style=flat-square)](https://twitter.com/jasoorkhan)
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=flat-square)](https://medium.com/@mr_saif)
