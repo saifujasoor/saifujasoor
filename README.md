@@ -50,6 +50,40 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 <hr>
 
 
+<br>
+
+
+<hr>
+<p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=saifujasoor&column=3&theme=nord&margin-w=6&margin-h=5&no-frame=true" /> </p>
+
+<!-- <p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifujasoor&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p> -->
+
+<p align="center"> <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mr_saif&theme=github_dark&layout=compact" /> </p>
+
+<!-- <p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saifujasoor&show_icons=true&locale=en&theme=github_dark" /> </p> -->
+<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saifujasoor&theme=dark" /> </p>
+
+<p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=saifujasoor&theme=github" /> </p>
+</hr>
+
+<hr>
+<br>
+<br />
+
+## Featured Repositories!!
+
+<br />
+
+[![Age-Prediction-and-Gender-Detection-Web-App](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Age-Prediction-and-Gender-Detection-Web-App&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Age-Prediction-and-Gender-Detection-Web-App.git)
+
+[![Capture-Frames-from-realtime-webcam-record](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Capture-Frames-from-realtime-webcam-record&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Capture-Frames-from-realtime-webcam-record.git)
+
+[![face-expressions-recognition](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=face-expressions-recognition&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/face-expressions-recognition.git)
+
+[![Capture-image-from-webcam-and-display-in-localhost](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Capture-image-from-webcam-and-display-in-localhost&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Capture-image-from-webcam-and-display-in-localhost.git)
+
+
+
 <!--Links -->
 [instagram]: https://www.instagram.com/mr_saifu01/
 [linkedin]: https://www.linkedin.com/in/saifullahrahimi/
