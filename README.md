@@ -69,7 +69,6 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 
 <hr>
 <br>
-<br />
 
 ## Featured Repositories!!
 
