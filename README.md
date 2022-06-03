@@ -84,9 +84,9 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 [![Capture-image-from-webcam-and-display-in-localhost](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Capture-image-from-webcam-and-display-in-localhost&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Capture-image-from-webcam-and-display-in-localhost.git)
 </hr>
 <br>
-<hr><!--
+<hr>
 <h3 align="left">Connect with me:</h3>
-
+<!--
 [![Replit](https://img.shields.io/badge/-Repl.it-212121?logo=replit&logoWidth=20&logoColor=f0f0f0&style=flat-square)](https://replit.com/@mrsaif)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoWidth=20&logoColor=white&style=flat-square)](https://twitter.com/jasoorkhan) 
