@@ -87,18 +87,30 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 <hr><!--
 <h3 align="left">Connect with me:</h3>
 
-[![Replit](https://img.shields.io/badge/-Repl.it-212121?logo=replit&logoWidth=20&logoColor=f0f0f0&style=flat-square)](https://replit.com/@mr_saif)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoWidth=20&logoColor=white&style=flat-square)](https://twitter.com/jasoorkhan)
+[![Replit](https://img.shields.io/badge/-Repl.it-212121?logo=replit&logoWidth=20&logoColor=f0f0f0&style=flat-square)](https://replit.com/@mrsaif)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoWidth=20&logoColor=white&style=flat-square)](https://twitter.com/jasoorkhan) 
+-->
+
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=flat-square)](https://medium.com/@mr_saif)
+<!--
 [![Dev Community](https://img.shields.io/badge/-Dev.to-212121?logo=devdotto&logoWidth=20&logoColor=white&style=flat-square)](https://dev.to/mr_saif)
+
 [![Codepen](https://img.shields.io/badge/-Codepen-545454?logo=codepen&logoWidth=20&logoColor=white&style=flat-square)](https://codepen.io/mr_saif)
+
 [![You Tube](https://img.shields.io/badge/-You_Tube-ff0000?logo=youtube&logoWidth=20&logoColor=white&style=flat-square)](https://www.youtube.com/channel/UCs97JVJunBtc29yStIrk-3Q)
+
 [![Dribbble](https://img.shields.io/badge/-Dribbble-e54786?logo=dribbble&logoWidth=20&logoColor=white&style=flat-square)](https://dribbble.com/mr_saif)
+
 [![Figma](https://img.shields.io/badge/-Figma-e54786?logo=figma&logoWidth=20&logoColor=white&style=flat-square)](https://figma.com/@mr_saif)
+
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?logo=stackoverflow&logoWidth=20&logoColor=white&style=flat-square)](https://stackoverflow.com/users/16281949/mr_saif)
+
 [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?logo=sololearn&logoWidth=20&logoColor=white&style=flat-square)](https://sololearn.page.link/mr_saif)&nbsp;
  
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin] [![Mail Badge](https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge)][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin] [![Mail Badge]
+
+(https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge)][instagram]
 <br />
 -->
 </hr>
