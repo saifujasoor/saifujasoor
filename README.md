@@ -85,7 +85,7 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 
 [![Automatic-Resume-Ranking-with-dataset-and-model](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Automatic-Resume-Ranking-with-dataset-and-model&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Automatic-Resume-Ranking-with-dataset-and-model.git)
 
-[![Automatic-Resume-Ranking-with-dataset-and-model](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Automatic-Resume-Ranking-with-dataset-and-model&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Automatic-Resume-Ranking-with-dataset-and-model.git)
+[![Resume-Ranking-Web-app](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Resume-Ranking-Web-app&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Resume-Ranking-Web-app.git)
 
 </hr>
 <br>
