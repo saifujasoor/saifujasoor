@@ -87,6 +87,9 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 
 [![Resume-Ranking-Web-app](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Resume-Ranking-Web-app&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Resume-Ranking-Web-app.git)
 
+https://github.com/saifujasoor/realtime-image-capturing-and-upload-flask-webapp.git
+[![realtime-image-capturing-and-upload-flask-webapp](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=realtime-image-capturing-and-upload-flask-webapp&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/realtime-image-capturing-and-upload-flask-webapp.git)
+
 </hr>
 <br>
 <hr>
