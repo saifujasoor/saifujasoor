@@ -81,6 +81,8 @@ https://user-images.githubusercontent.com/76810003/158800736-adcb496a-129e-44c9-
 
 [![face-expressions-recognition](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=face-expressions-recognition&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/face-expressions-recognition.git)
 
+[![Smart-Attendance-System-using-Face-Recognition](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Smart-Attendance-System-using-Face-Recognition&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Smart-Attendance-System-using-Face-Recognition.git)
+
 [![Automatic-Resume-Ranking-with-dataset-and-model](https://github-readme-stats.vercel.app/api/pin/?username=saifujasoor&repo=Automatic-Resume-Ranking-with-dataset-and-model&show_icons=true&theme=github_dark)](https://github.com/saifujasoor/Automatic-Resume-Ranking-with-dataset-and-model.git)
 </hr>
 <br>
