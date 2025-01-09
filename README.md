@@ -4,14 +4,14 @@
 
 <br />
 
-## I'm a Data Science Intern and a ML/AI Enthusiast!!
+## I'm a PhD Scholar In Artificial Intelligence and an ML/AI Enthusiast!!
 
 <br />
 
 - 🔭 I'm currently invested in learning about Deep Learning ⛓️
 - 👯 I’m looking to collaborate with other coders
 - 🥅 2022 Goals: Learning Data Visualization and Data Analysis.
-- ⚡ Fun fact: I love Swimming and Gym.
+- ⚡ Fun fact: I love Chess and Gym.
 
 <br />
 
