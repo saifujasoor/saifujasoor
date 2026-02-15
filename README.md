@@ -10,7 +10,6 @@
 
 - 🔭 I'm currently invested in learning about Deep Learning ⛓️
 - 👯 I’m looking to collaborate with other coders
-- 🥅 2022 Goals: Learning Data Visualization and Data Analysis.
 - ⚡ Fun fact: I love Chess and Gym.
 
 <br />
